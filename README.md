@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shenghua Jin</h1>
-<h3 align="center">A computer science student passionate about robotics and</h3>
+<h3 align="center">A computer science student passionate about development at the edge of software and hardware.</h3>
 
 - 🔭 I’m currently working on **my website portfolio**
 
 - 🌱 I’m currently learning **frontend development**
 
-- 📫 How to reach me **sjin2986@gmail.com**
+- 📫 How to reach me: **sjin2986@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/shenghua-jin</h3>
 <p align="left">
 </p>
 
