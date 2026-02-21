@@ -7,7 +7,8 @@
 
 - 📫 How to reach me: **sjin2986@gmail.com**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/shenghua-jin</h3>
+<h3 align="left">Connect with me:</h3>
+- https://www.linkedin.com/in/shenghua-jin
 <p align="left">
 </p>
 
