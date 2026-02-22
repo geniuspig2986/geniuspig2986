@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shenghua Jin</h1>
+<h1 align="center">Hi 👋, I'm Simon Jin</h1>
 <h3 align="center">A computer science student passionate about development at the edge of software and hardware.</h3>
 
 - 🔭 I’m currently working on **my website portfolio**
